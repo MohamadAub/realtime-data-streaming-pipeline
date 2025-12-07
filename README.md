@@ -108,9 +108,13 @@ Control Center URL:
 📚 Learning Goals
 
 •	Hands-on understanding of data streaming concepts
+
 •	Event-driven architecture design using Kafka
+
 •	Containerized deployments with Docker
+
 •	Batch vs. streaming data processing
+
 •	Workflow automation using Airflow
 
 ⸻
