@@ -6,8 +6,7 @@ This project demonstrates a **complete realtime data engineering pipeline**, fro
 
 ## 🧠 **System Architecture**
 
-
-![alt text](<Data engineering architecture-3.png>)
+<img width="3274" height="1221" alt="Data engineering architecture" src="https://github.com/user-attachments/assets/6f5afbd2-42d8-4db8-ae76-33869b582a12" />
 
 
 The system is designed as an interconnected, containerized data pipeline:
@@ -50,16 +49,16 @@ The system is designed as an interconnected, containerized data pipeline:
 ## ⚙️ **Getting Started**
 
 
-1️⃣ Clone the Repository
+## 1️⃣ Clone the Repository
 ```bash
 
 git clone https://github.com/MohamadAub/realtime-data-streaming-pipeline.git
 cd realtime-data-streaming-pipeline
 
-2️⃣ Start the Docker Services
+## 2️⃣ Start the Docker Services
 docker-compose up
 
-3️⃣ Access Airflow UI
+## 3️⃣ Access Airflow UI
 
 Open your browser and go to:
 
@@ -68,19 +67,19 @@ http://localhost:8080
 
 Use Airflow to trigger the pipeline DAGs.
 
-4️⃣ Check Kafka Streams
+## 4️⃣ Check Kafka Streams
 
 Control Center URL:
 
 http://localhost:9021
 
-5️⃣ Explore Cassandra & PostgreSQL
+## 5️⃣ Explore Cassandra & PostgreSQL
 
-Cassandra: stores processed data
+1- Cassandra: stores processed data
+2- PostgreSQL: raw data from Airflow ingestion
 
-PostgreSQL: raw data from Airflow ingestion
+## Project Architecture Diagram
 
-🏗️ Project Architecture Diagram
       +---------------------+
       |  RandomUser API     |
       +----------+----------+
