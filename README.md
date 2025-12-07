@@ -107,20 +107,20 @@ Control Center URL:
 
 📚 Learning Goals
 
-	•	Hands-on understanding of data streaming concepts
-	•	Event-driven architecture design using Kafka
-	•	Containerized deployments with Docker
-	•	Batch vs. streaming data processing
-	•	Workflow automation using Airflow
+•	Hands-on understanding of data streaming concepts
+•	Event-driven architecture design using Kafka
+•	Containerized deployments with Docker
+•	Batch vs. streaming data processing
+•	Workflow automation using Airflow
 
 ⸻
 
 🚀 Future Improvements
 
-	•	Add data visualization dashboards (Grafana / Power BI)
-	•	Include data quality checks (Great Expectations)
-	•	Extend to cloud services (AWS MSK, GCP Pub/Sub, or Azure Event Hubs)
-	•	Real-time alerting & monitoring system
+•	Add data visualization dashboards (Grafana / Power BI)
+•	Include data quality checks (Great Expectations)
+•	Extend to cloud services (AWS MSK, GCP Pub/Sub, or Azure Event Hubs)
+•	Real-time alerting & monitoring system
 
 ⸻
 
