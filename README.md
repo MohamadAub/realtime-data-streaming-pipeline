@@ -1,13 +1,13 @@
 # ⚡ Realtime Data Streaming | End-to-End Data Engineering Project
 
-This project demonstrates a **complete realtime data engineering pipeline** — from data ingestion to processing, storage, and visualization. It integrates the full modern data stack with tools like **Apache Kafka, Airflow, Spark, Cassandra**, and **Docker**, simulating a production-grade environment for streaming analytics.
+This project demonstrates a **complete realtime data engineering pipeline**, from data ingestion to processing, storage and visualization. It integrates the full modern data stack with tools like **Apache Kafka, Airflow, Spark, Cassandra** and **Docker**, simulating a production-grade environment for streaming analytics.
 
 ---
 
 ## 🧠 **System Architecture**
 
 
-<img width="3274" height="1221" alt="Data engineering architecture" src="https://github.com/user-attachments/assets/f6c1a8e2-19d0-4c5d-81d8-5b455bf5bf3c" />
+![alt text](<Data engineering architecture-3.png>)
 
 
 The system is designed as an interconnected, containerized data pipeline:
@@ -49,7 +49,8 @@ The system is designed as an interconnected, containerized data pipeline:
 
 ## ⚙️ **Getting Started**
 
-### 1️⃣ Clone the Repository
+
+1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/MohamadAub/realtime-data-streaming-pipeline.git
 cd realtime-data-streaming-pipeline
