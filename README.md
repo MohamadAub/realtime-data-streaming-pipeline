@@ -52,6 +52,7 @@ The system is designed as an interconnected, containerized data pipeline:
 
 1️⃣ Clone the Repository
 ```bash
+
 git clone https://github.com/MohamadAub/realtime-data-streaming-pipeline.git
 cd realtime-data-streaming-pipeline
 
@@ -61,23 +62,25 @@ docker-compose up
 3️⃣ Access Airflow UI
 
 Open your browser and go to:
+
 http://localhost:8080
+
 
 Use Airflow to trigger the pipeline DAGs.
 
 4️⃣ Check Kafka Streams
 
 Control Center URL:
+
 http://localhost:9021
 
 5️⃣ Explore Cassandra & PostgreSQL
 
-1- Cassandra: stores processed data
-2- PostgreSQL: raw data from Airflow ingestion
+Cassandra: stores processed data
 
+PostgreSQL: raw data from Airflow ingestion
 
-Project Architecture Diagram
-
+🏗️ Project Architecture Diagram
       +---------------------+
       |  RandomUser API     |
       +----------+----------+
@@ -101,6 +104,7 @@ Project Architecture Diagram
         +--------+--------+
         |   Cassandra     |
         +-----------------+
+
 
 📚 Learning Goals
 	•	Hands-on understanding of data streaming concepts
