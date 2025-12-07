@@ -7,7 +7,7 @@ This project demonstrates a **complete realtime data engineering pipeline**, fro
 ## 🧠 **System Architecture**
 
 
-![alt text](<Data engineering architecture-3.png>)
+<img width="3274" height="1221" alt="Data engineering architecture" src="https://github.com/user-attachments/assets/b3e8e789-2a1f-4e98-8fe1-d2954bc4bd93" />
 
 
 The system is designed as an interconnected, containerized data pipeline:
@@ -134,6 +134,7 @@ Control Center URL:
 🤝 Contributing
 
 Contributions are welcome!
+
 Fork the repository, make your changes, and submit a Pull Request.
 
 ⸻
@@ -147,6 +148,9 @@ This project is licensed under the MIT License.
 🌐 Connect with Me
 
 👤 Mohamad El Ayoubi
+
 🔗 https://github.com/MohamadAub
+
 ✉ mmelayoubi@gmail.com
+
 📍 Paris, France
