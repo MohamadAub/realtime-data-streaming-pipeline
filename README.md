@@ -7,7 +7,7 @@ This project demonstrates a **complete realtime data engineering pipeline** — 
 ## 🧠 **System Architecture**
 
 
-c:\Users\mhmda\OneDrive\Documents\My_Programming_Projects\Realtime Data Streaming, End-to-End Data Engineering Project\e2e-data-engineering-main\Data engineering architecture.png
+<img width="3274" height="1221" alt="Data engineering architecture" src="https://github.com/user-attachments/assets/f6c1a8e2-19d0-4c5d-81d8-5b455bf5bf3c" />
 
 
 The system is designed as an interconnected, containerized data pipeline:
