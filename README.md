@@ -118,8 +118,11 @@ Control Center URL:
 🚀 Future Improvements
 
 •	Add data visualization dashboards (Grafana / Power BI)
+
 •	Include data quality checks (Great Expectations)
+
 •	Extend to cloud services (AWS MSK, GCP Pub/Sub, or Azure Event Hubs)
+
 •	Real-time alerting & monitoring system
 
 ⸻
